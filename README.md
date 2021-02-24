@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-<p>My name is João Vitor, but you can call me Rapi(aye sir!). I'm full stack developer and the stack i use is: <p/>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"><img height="25" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width:100%;"></a>
-React Native, NodeJs and MySQL. I have some experience with Java, Python, Angular and MongoDB. At the moment, i'm intern in IBGE and finishing my faculty( i study computer science ).
+<p>My name is João Vitor, but you can call me Rapi(aye sir!). I'm full stack developer :computer:.  : <p/>
+<p>I'm finishing my college (i study computer science currently) and i'm intern in IBGE and responsible for implement SISMED system (search for sismed repositories). I'm used this stack currently:</p>
 
-How can you find me? Here is some ways:
+![React Badge](https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=61DAFB) ![ReactNative Badge](https://img.shields.io/badge/react%20native-282C34?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJs Badge](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodejs&logoColor=white) ![Typescript Badge](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40)
 
-<a href="https://www.linkedin.com/in/joaovitorssdelima/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/5f14dbd4f1866c3a785a6ebf9617500c491565b0e9844c31e2f59c3bc97d0d52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3030373742353f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;">
-  </a>
-  
-  <a href="joaooviitoorr@gmail.com">
-    <img src="https://camo.githubusercontent.com/0db634451a6d6c57b327b23b00f9b4775755b63ad47b97a47d512bbe62e60511/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6335333932613f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a72616661656c612e73616e746f7340616c756e6f2e756570622e6564752e6272295d286d61696c746f3a72616661656c612e73616e746f7340616c756e6f2e756570622e6564752e6272" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-c5392a?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:rafaela.santos@aluno.uepb.edu.br)](mailto:rafaela.santos@aluno.uepb.edu.br" style="max-width:100%;">
-  </a>
+
+
+ <p>I have others experiences, like: </p>
+ 
+  ![Java Badge](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Angular Badge](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
+
+<p>How can you find me? Here is some ways:<p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://github.com/jojox369) [![Gmail Badge](https://img.shields.io/badge/-joaooviitoorr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaooviitoorr@gmail.com)](mailto:joaooviitoorr@gmail.com) [![Hotmail Badge](https://img.shields.io/badge/-joaooviitorr@hotmail.com-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:joaooviitorr@hotmail.com)](mailto:joaooviitorr@hotmail.com)
