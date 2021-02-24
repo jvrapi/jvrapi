@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>My name is João Vitor, but you can call me Rapi(aye sir!). I'm full stack developer :computer:.  : <p/>
+<p>My name is João Vitor, but you can call me Rapi(aye sir!). I'm full stack developer :computer: <p/>
 <p>I'm finishing my college (i study computer science currently) and i'm intern in IBGE and responsible for implement SISMED system (search for sismed repositories). I'm used this stack currently:</p>
 
 ![React Badge](https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=61DAFB) ![ReactNative Badge](https://img.shields.io/badge/react%20native-282C34?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJs Badge](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodejs&logoColor=white) ![Typescript Badge](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40)
