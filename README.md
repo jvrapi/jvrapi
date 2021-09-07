@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center"> 
+ Olá, Eu sou o João Vitor 
+ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+</h1>
 
-<p>My name is João Vitor, but you can call me Rapi(aye sir!). I'm full stack developer :computer: <p/>
-<p>I'm finishing my college (i study computer science currently) and i'm intern in IBGE and responsible for implement SISMED system (search for sismed repositories). I'm used this stack currently:</p>
+<div align="center">
+  <a href="https://github.com/jvrapi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvrapi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ 	&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrapi&layout=compact&langs_count=7&theme=dark"/>
+ </a>
+</div>
 
-![React Badge](https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=61DAFB) ![ReactNative Badge](https://img.shields.io/badge/react%20native-282C34?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJs Badge](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodejs&logoColor=white) ![Typescript Badge](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40)
+## 📖 Sobre mim
+- Bacharel em Ciência da Computação pela [Unicarioca](https://www.unicarioca.edu.br/)
+- Apaixonado por novos conhecimentos
+- Desenvolvedor Full-Stack
 
 
+## 🖥 Habilidades
 
- <p>I have others experiences, like: </p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rapi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rapi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rapi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rapi-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rapi-PostegresSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rapi-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+## 📱 Contato
+
+<div>
+  <a href="mailto:joaooviitoorr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:joaooviitorr@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-vitor-santoss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Java Badge](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Angular Badge](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PHP Badge](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
+ ![Snake animation](https://github.com/jvrapi/jvrapi/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-<p>How can you find me? Here is some ways:<p>
+ 
 
-[![Linkedin Badge](https://img.shields.io/badge/-João%20Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovitorssdelima/)](https://www.linkedin.com/in/joaovitorssdelima/) [![Gmail Badge](https://img.shields.io/badge/-joaooviitoorr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaooviitoorr@gmail.com)](mailto:joaooviitoorr@gmail.com) [![Hotmail Badge](https://img.shields.io/badge/-joaooviitorr@hotmail.com-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:joaooviitorr@hotmail.com)](mailto:joaooviitorr@hotmail.com)
+
+ 
