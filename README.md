@@ -3,7 +3,6 @@
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 </h1>
 
-
 ## 📖 Sobre mim
 - Bacharel em Ciência da Computação pela [Unicarioca](https://www.unicarioca.edu.br/)
 - Apaixonado por novos conhecimentos
